@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0713_000-X.yaml, hash: 'sha256:ce6396843b1dc47e8ae8197e4efd102ace51f3c5e80512723a96535a26883485'}
+  - {seq: 0, filename: KR6j0713_000-X.yaml, hash: 'sha256:590bea6d413089663a8bfd1431c310c2b6ffa8a43145e98ee1679fe095f96e2a'}
   - {seq: 1, filename: KR6j0713_001-X.yaml, hash: 'sha256:e1a14de8737c3ca4151cf7745e9f2e707e7e80aa27029530276682c1ca67dee5'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0713_000-X.markers.yaml, hash: 'sha256:142cabfb8d210e35a1df4e215d6478de000d80b42b2cd9f7ad793d05d2d47b83'}
+  - {seq: 0, role: markers, filename: assets/KR6j0713_000-X.markers.yaml, hash: 'sha256:d01ad6a18e7242486774ebe26e967a4b0078e4c473521b70fc519fb550729613'}
   - {seq: 1, role: markers, filename: assets/KR6j0713_001-X.markers.yaml, hash: 'sha256:f2391111e9cbdd23bba3a7f98e7421fe8416a1fe5bea3a0f968626131a248b21'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6j0713_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 305-A 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0713_X_000-mulu-2
     span:
-    - front
+    - body
     - 583
     - 583
   label: No. 305-B 楞嚴定解序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0713_X_000-mulu-3
     span:
-    - front
+    - body
     - 1240
     - 1240
   label: No. 305-C 自序
@@ -117,4 +117,4 @@ table_of_contents:
   label: 四系凡例(十條)
   type: mulu
   level: 1
-hash: sha256:88ea99a77980c2c3a1b301e39f80140aa1779736c8070b005464a23277607603
+hash: sha256:e0df1a2cab6a35c2f7a6b4698aff54b3753bc9b90c46d1d4f0423691a9188144
